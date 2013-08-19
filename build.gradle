@@ -8,6 +8,7 @@ repositories {
 }
 
 dependencies {
+    compile "com.google.guava:guava:14.0.1"
     testCompile "junit:junit:4.10"
     testCompile "org.easytesting:fest-assert:1.4"
 }
